@@ -17,7 +17,7 @@ webfont.modules.google.FontApiParser.INT_FONTS = {
   'cyrillic': '\u0439\u044f\u0416',
   'greek': '\u03b1\u03b2\u03a3',
   'khmer': '\u1780\u1781\u1782',
-  'vietnamese':'\u0102, \u0110, \u0128, \u0168, \u01A0, \u01af, \u1ea0, \u20ab',
+  'vietnamese':'\u0102\u00E0\u1ECD\u1EC5\u0110\u0128\u0168\u01A0\u01af\u1ea0\u20ab\u00F9',
   'Hanuman': '\u1780\u1781\u1782' // For backward compatibility
 };
 
